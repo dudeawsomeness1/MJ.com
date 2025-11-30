@@ -1,9 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The MJ-Web
 ---
 # This is the official McClain Jorgensen website
 Hello Earth-web!
-1234
+
+---
 
 *Powered by [Quartz](https://github.com/jackyzha0/quartz) & [Obsidian](https://obsidian.md/)*
 
