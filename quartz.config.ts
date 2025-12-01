@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "newtonmafia.top", // dudeawsomeness1.github.io/MJ.com
+    baseUrl: "www.newtonmafia.top", // dudeawsomeness1.github.io/MJ.com
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
