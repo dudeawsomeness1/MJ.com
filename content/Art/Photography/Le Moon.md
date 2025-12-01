@@ -16,4 +16,14 @@ Ah, le moon…
 
 ## Le Halo
 
-![[IMG_9237.heic]]
+[Set the mood with Hymn of the Cherubim](https://music.youtube.com/watch?v=XxepL6rzvW4)
+
+![[IMG_9237.avif]]
+
+![[IMG_0897.avif]]
+
+## Le Aesthetic
+
+![[FSCN1069.jpg]]
+
+I used a Nikon Coolpix 7000 for most of these photos, but the "halo" ones were taken with my iPhone 12 mini.
