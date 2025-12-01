@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "dudeawsomeness1.github.io/MJ.com",
+    baseUrl: "newtonmafia.top", // dudeawsomeness1.github.io/MJ.com
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -74,6 +74,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
+	  Plugin.CNAME(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),

@@ -1,6 +1,9 @@
 When I was playing Borderlands 3, I wanted to know how much damage per second (DPS) my guns had, so I came up with these formulas:
+
 $$DPS = \frac{fDc}{A}$$
+
 $$DPS_E = \left(\frac{D c}{A} + E_p D_E E_t\right) f = DPS + f E_p D_E E_t$$
+
 The variables are defined as follows:
 
 | Variable                                    | Meaning                                                                                                  |
