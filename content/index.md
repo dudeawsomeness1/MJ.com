@@ -2,7 +2,8 @@
 title: Welcome to The MJ-Web
 ---
 # This is the official McClain Jorgensen website
-Hello Earth-web!
+
+Hello Earth-web! Yes, that's right, the MJ-web is finally accessible on Earth!
 
 ---
 
