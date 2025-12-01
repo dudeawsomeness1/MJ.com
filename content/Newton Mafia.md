@@ -1,4 +1,9 @@
-The Newton Mafia is an elite group of hooligans who operate on the principles of (mainly) hope, charity, and love. We subscribe to a positive, tolerant, human-progressive archetype.
+The Newton Mafia is an elite group of hooligans who operate on the principles of hope, charity, and love. We subscribe to a positive, tolerant, human-progressive (I have no idea what that means) archetype.
+
+**Official Bird**: Pigeon
+
+| ![[pigeon walking.webp]] | ![[gmod pigeon.gif]] |
+| ------------------------ | -------------------- |
 
 Members include:
 
@@ -10,4 +15,6 @@ Members include:
 - **\[Redacted\]**, Ginger 1
 - **\[Redacted\]**, Ginger 2
 - **\[Redacted\]**, That Guy
+- **\[Redacted\]**, The Mad Scientist
+- Mr. Rogers, Get-Away Driver & Visionary
 - Various others with honorary titles

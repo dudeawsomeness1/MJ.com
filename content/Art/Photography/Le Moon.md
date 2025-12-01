@@ -18,9 +18,9 @@ Ah, le moon…
 
 [Set the mood with Hymn of the Cherubim](https://music.youtube.com/watch?v=XxepL6rzvW4)
 
-![[IMG_9237.avif]]
+![[IMG_9237.webp]]
 
-![[IMG_0897.avif]]
+![[IMG_0897.webp]]
 
 ## Le Aesthetic
 
