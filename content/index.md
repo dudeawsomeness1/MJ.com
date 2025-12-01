@@ -1,5 +1,6 @@
 ---
 title: Welcome to The MJ-Web
+enableToc: true
 ---
 # This is the official McClain Jorgensen website
 
