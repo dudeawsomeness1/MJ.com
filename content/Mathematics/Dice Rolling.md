@@ -1,3 +1,3 @@
-[View PDF in another tab](https://www.newtonmafia.top/DiceProb.pdf)
+[View Raw PDF](https://www.newtonmafia.top/DiceProb.pdf)
 
 ![[DiceProb.pdf]]
