@@ -18,3 +18,5 @@ Members include:
 - **\[Redacted\]**, The Mad Scientist
 - Mr. Rogers, Get-Away Driver & Visionary
 - Various others with honorary titles
+
+![[AshWilliamsFlipOff.webp]]
