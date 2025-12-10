@@ -1,5 +1,6 @@
 ---
 title: Linux Digital Document Viewers
+publish: true
 ---
 Today's Song: [Family Affair • Mary J. Blige](https://music.youtube.com/watch?v=byFdFFgTnCc)
 

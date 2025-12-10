@@ -1,5 +1,6 @@
 ---
 title: Welcome to The MJ-Web
+publish: true
 ---
 # This is the official McClain Jorgensen website
 
