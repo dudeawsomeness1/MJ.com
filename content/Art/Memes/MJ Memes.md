@@ -2,19 +2,13 @@ Freshly baked memes by me!
 
 ![[Windows dead just short of 40 years old.webp]]
 > Tux mourning the loss of Windows
+>
 > Windows 1.0 release date to Windows 10 end of support
+>
 > I love Windows, but Microsoft trashed it, so Windows is dead to me 😭
 
 ![[ExtraRelish.jpg]]
-
-```cardlink
-url: https://youtu.be/D8ZtI6KyOpM?t=81
-title: "New from KTELL John Candy On SCTV 5 Neat Guys Gold Album"
-description: "I loved the fact that I could get Canadian TV back in the day living outside of Detroit. SCTV Was better than SNL."
-host: youtu.be
-favicon: https://www.youtube.com/s/desktop/76a077af/img/favicon_32x32.png
-image: https://i.ytimg.com/vi/D8ZtI6KyOpM/maxresdefault.jpg
-```
+> [New from KTELL John Candy On SCTV 5 Neat Guys Gold Album](https://youtu.be/D8ZtI6KyOpM?t=81)
 
 ![[Waaait.jpg]]
 [Wait… Nirami (YouTube)](https://youtube.com/shorts/TaKcurZebjk)
@@ -77,5 +71,7 @@ https://isocpp.org/std/the-standard
 
 ![[main forever alone.png]]
 > int main() {
-> 	app.run();
-> } // return 0; is implied
+>
+> 	return app.run();
+>
+> }
