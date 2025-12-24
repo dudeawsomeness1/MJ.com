@@ -55,7 +55,7 @@ Screenshot of an NPC from [Witch Hunt](https://store.steampowered.com/app/661790
 
 ![[GC Marching Band BOA Meme.png]]
 
-![[[Polkka Intensifies].png]]
+![[Polkka Intensifies.png]]
 > The legendary [Loituma "Ievan polkka"](https://youtu.be/hqthspSKZV8)
 > Was messing around with [Gimp](https://www.gimp.org/)
 
@@ -70,8 +70,8 @@ https://isocpp.org/std/the-standard
 ![[Recursion Ramsay meme.png]]
 
 ![[main forever alone.png]]
-> int main() {
->
-> 	return app.run();
->
-> }
+```cpp
+int main() {
+	return app.run();
+}
+```

@@ -16,6 +16,7 @@ Members include:
 - **\[Redacted\]**, Ginger 2
 - **\[Redacted\]**, That Guy
 - **\[Redacted\]**, The Mad Scientist
+- **\[Redacted\]**, The Scotsman
 - Mr. Rogers, Get-Away Driver & Visionary
 - Various others with honorary titles
 

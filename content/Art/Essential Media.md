@@ -1,25 +1,43 @@
----
-tags:
-  - Favorite
-  - Art
-  - Books
-  - Movies
-  - Music
-  - TV
-  - JesusChrist
-  - God
-  - HolyGhost
-  - DragonBall
-  - LOTR
-  - Hobbit
-  - Batman
-  - Marvel
-  - StanLee
-  - SpiderMan
-  - Avengers
-  - MattGroening
-  - Stargate
----
+## Trivia
+
+Sharky asked me this:
+- Who's my favorite NPC?
+	- Joshua Graham
+- Who's my favorite protagonist?
+	- I'm considering:
+		- Arthur Morgan (Read Dead 2)
+		- Michael Weston (Burn Notice)
+		- Earl (My Name is Earl)
+		- Frodo
+		- Batman
+		- John Reese (Person of Interest)
+		- Severus Snape
+		- Yoda
+		- Luke Skywalker
+		- Paul Atreides (a.k.a. Muad'Dib) (Dune)
+		- Iron Man
+		- Miles Morales (Spider Man)
+		- Ash Williams (Evil Dead)
+		- Joe (A Fistful of Dollars)
+		- John Wick
+		- Neo (The Matrix)
+		- Morpheus (The Matrix)
+		- Jay (Men in Black)
+		- Robin Hood (basically any version)
+		- Santa Claus (Woody Allen)
+		- Shrek
+	- There's also a lot of good choices in NCIS
+- Who's my favorite antagonist?
+	- I'm considering:
+		- Count Olaf (A Series of Unfortunate Events)
+		- Gollum
+		- Frankenstein
+		- Darth Vader
+		- The Ceaseless Watcher (Magnus Archives)
+		- The Joker
+		- Ebenezer Scrooge
+*It's hard for me to pick favorites, which is why I tend to have multiple favorites.*
+
 ## TV-Shows
 
 - The Adams Family
@@ -33,7 +51,6 @@ tags:
 	- Dragon Ball Z and/or Z Kai + Kai Final Chapters
 	- Dragon Ball Super
 - Firefly
-	- *Disney+ reboot?*
 - Frasier
 - Futurama (12 seasons)
 - The Good Place
@@ -67,8 +84,11 @@ tags:
 
 ## Movies
 
+- 2 Fast 2 Furious
+- Army of Darkness (Evil Dead)
 - Avengers: Endgame
 - Avengers: Infinity War
+- Back to the Future
 - The Batman (2022)
 - Charlie Brown
 	- The Great Pumpkin
@@ -76,8 +96,12 @@ tags:
 	- Christmas
 - Die Hard
 - The Evil Dead 1 & 2
-- Fistful of Dollars
+- The Fast and the Furious
+- The Fast and the Furious: Tokyo Drift
+- A Fistful of Dollars
+- Forrest Gump
 - The Grinch (Jim Carrey)
+- Harry Potter movies
 - Indiana Jones
 	- Lost Ark
 	- Temple of Doom
@@ -90,22 +114,27 @@ tags:
 - The Matrix 1,2,3
 - Men in Black
 - Monty Python and The Holy Grail
+- The Princess Bride
+- Pulp Fiction
 - Red
 - Robin Hood (Disney)
 - Rocky I-IV
 - Santa Claus 1,2,3
 - Second Hand Lions
 - A Series of Unfortunate Events
+- The Shawshank Redemption
 - Shrek 1-4
 - Smokey and The Bandit
 - Spider Man
 	- Toby McGuire
 	- Andrew Garfield
-	- Spider-Man: Into the Spider-Verse
-	- Spider-Man: Across the Spiderverse
-	- Spider-Man: Far From Home
-	- Spider-Man: Homecoming
-	- Spider-Man: No Way Home
+	- Shameik Moore (Miles Morales)
+		- Spider-Man: Into the Spider-Verse
+		- Spider-Man: Across the Spiderverse
+	- Tom Holland
+		- Spider-Man: Far From Home
+		- Spider-Man: Homecoming
+		- Spider-Man: No Way Home
 - Stargate movies
 - Star Trek movies
 - Star Wars
@@ -291,9 +320,15 @@ tags:
     - The Mandalorian
     - Andor
     - Clone Wars
+    - Fallout
+    - *Firefly Disney+ reboot?*
+    - A Man on the Inside
     - Stargate: Origins
 - Movies
     - Rocky V
+    - Jujutsu Kaisen
     - Doctor Strange
     - Doctor Strange in the Multiverse of Madness
     - Indiana Jones: Crystal Skull, Dial of Destiny
+
+#Favorite #Art #Books #Movies #Music #TV #JesusChrist #God #HolyGhost #DragonBall #LOTR #Hobbit #Batman #Marvel #StanLee #SpiderMan #Avengers #MattGroening #Stargate

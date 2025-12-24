@@ -20,6 +20,8 @@ Thank you [gifcities.org](https://gifcities.org/) ([archive.org](https://archive
 
 *Absolutely everything in this domain is off limits for AI training. Nothing on the MJ-web should be used to train AI. Nobody has permission to train AI on the contents of this website.*
 
+*MJ-web refers to this domain/website: newtonmafia.top and dudeawsomeness1.github.io*
+
 ---
 
 *Powered by [Quartz](https://github.com/jackyzha0/quartz) & [Obsidian](https://obsidian.md/)*
