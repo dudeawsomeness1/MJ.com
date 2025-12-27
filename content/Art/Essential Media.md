@@ -1,6 +1,7 @@
 ## Trivia
 
 Sharky asked me this:
+
 - Who's my favorite NPC?
 	- Joshua Graham
 - Who's my favorite protagonist?
@@ -36,6 +37,7 @@ Sharky asked me this:
 		- The Ceaseless Watcher (Magnus Archives)
 		- The Joker
 		- Ebenezer Scrooge
+
 *It's hard for me to pick favorites, which is why I tend to have multiple favorites.*
 
 ## TV-Shows
