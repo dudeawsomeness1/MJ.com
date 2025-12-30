@@ -227,9 +227,19 @@ This is probably missing some stuff, so it's not a complete list, but also new s
 #AlisonKrauss #AmericaTheBand #Bach #Beethoven #BillEvans #BobAcri #BuddyHolly #CreedenceClearwaterRevival #ErikSatie #GillianWelch #LinkinPark #MassiveAttack #MelCarter #Mozart #Muse #NatKingCole #PatsyCline #Ravel #Rush #TallyHall #TheBeatles #TheCrewCuts #TheEagles #ThePlatters #VinceGill #Vivaldi
 
 ## Paintings & Drawings
+- Albert Joseph Moore
+	- Lilies - 1866
+- Alexander Colville
+	- Dog and Bridge - 1976
+- Andrew Wyeth
+	- Christina's World - 1948
 - Edgar Degas
+- Johannes Vermeer
+	- Girl with a Pearl Earring (Meisje met de parel) - 1665
 - Leonardo da Vinci
+	- Mona Lisa - 1503
 - Tamara de Lempicka
+	- Polish Girl - 1933
 - Vincent Van Gogh
 
 #Degas #TamaraDeLempicka #VanGogh

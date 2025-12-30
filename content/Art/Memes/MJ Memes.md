@@ -1,6 +1,6 @@
 Freshly baked memes by me!
 
-![[Windows dead just short of 40 years old.webp]]
+# ![[Windows dead just short of 40 years old.webp]]
 > Tux mourning the loss of Windows
 >
 > Windows 1.0 release date to Windows 10 end of support
