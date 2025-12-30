@@ -1,14 +1,19 @@
+---
+tags:
+---
 ## Trivia
 
-Sharky asked me this:
+[[Newton Mafia|Sharky]] asked me this:
 
 - Who's my favorite NPC?
-	- Joshua Graham
+	- Joshua Graham (Fallout New Vegas)
 - Who's my favorite protagonist?
-	- I'm considering:
+	- I might have to go with Earl from My Name is Earl
+		- I pick Earl because his entire story is about becoming a good person
+		- And it's one of my favorite shows
+	- Honorable mentions:
 		- Arthur Morgan (Read Dead 2)
 		- Michael Weston (Burn Notice)
-		- Earl (My Name is Earl)
 		- Frodo
 		- Batman
 		- John Reese (Person of Interest)
@@ -39,6 +44,8 @@ Sharky asked me this:
 		- Ebenezer Scrooge
 
 *It's hard for me to pick favorites, which is why I tend to have multiple favorites.*
+
+This is probably missing some stuff, so it's not a complete list, but also new stuff comes out all the time.
 
 ## TV-Shows
 
@@ -212,69 +219,6 @@ Sharky asked me this:
 ### Christmas Music
 
 [My YouTube Music Christmas Playlist](https://music.youtube.com/playlist?list=PLOpw9ZBTaQyCQ21tQN9vvpT1w4-_7sPW1)
-
-- [Alma Cogan • Christmas Cards](https://music.youtube.com/watch?v=IM1FPziB6eA)
-- [The Ames Brothers • Winter Wonderland](https://music.youtube.com/watch?v=M8ROW7Y7_T8)
-- [The Beverley Sisters • I Saw Mommy Kissing Santa Claus](https://music.youtube.com/watch?v=Hs2L3i1zYi8)
-- [Bing Crosby • Here Comes Santa Claus (Right Down Santa Claus Lane)](https://music.youtube.com/watch?v=hoOhcG7x1c4)
-- [Bing Crosby • I Heard The Bells On Christmas Day](https://music.youtube.com/watch?v=qmCW68_JaRM)
-- [Bing Crosby • Jingle Bells](https://music.youtube.com/watch?v=q0kxlFLvGJg)
-- [Bing Crosby • Peace On Earth / Little Drummer Boy](https://music.youtube.com/watch?v=E69Je6BMZps)
-- [Bing Crosby • Santa Claus Is Comin' To Town](https://music.youtube.com/watch?v=Vhv_47ghQuY)
-- [Bobby Darin • Christmas Auld Lang Syne](https://music.youtube.com/watch?v=sLR4z8ZoNpM)
-- [Bobby Darin • O Come All Ye Faithful](https://music.youtube.com/watch?v=J5eX3zFfekA)
-- [Bobby Darin • Silent Night, Holy Night](https://music.youtube.com/watch?v=o5teQgmdHys)
-- [Bobby Helms • Jingle Bell Rock](https://music.youtube.com/watch?v=Z0ajuTaHBtM)
-- [Dean Martin • White Christmas](https://music.youtube.com/watch?v=eZ53UVAtn8s)
-- [Dickie Valentine • Christmas Alphabet](https://music.youtube.com/watch?v=P-pdm_SCu1o)
-- [Doris Day • Ol' Saint Nicholas](https://music.youtube.com/watch?v=EFijZWz4p54)
-- [Doris Day • Silver Bells](https://music.youtube.com/watch?v=49MeF_ncP3o)
-- [Doris Day • Silver Bells](https://music.youtube.com/watch?v=JLYqkscuZkA)
-- [Eagles • Please Come Home for Christmas (2018 Remaster)](https://music.youtube.com/watch?v=5LUfDEATQHM)
-- [Eddie Fisher • You’re All I Want for Christmas](https://music.youtube.com/watch?v=VMToMfPX468)
-- [Elvis Presley • Blue Christmas](https://music.youtube.com/watch?v=NqwENLwSTWQ)
-- [Elvis Presley • I'll Be Home for Christmas](https://music.youtube.com/watch?v=y7Yl84GLaJQ)
-- [Elvis Presley • O Little Town of Bethlehem](https://music.youtube.com/watch?v=KZbdXlb-S8g)
-- [The Fontane Sisters • A Howdy Doody Christmas](https://music.youtube.com/watch?v=XHVAKQGXuAs)
-- [Frank Sinatra • Jingle Bells (Remastered 1999)](https://music.youtube.com/watch?v=8aW5n_dV8VY)
-- [Frank Sinatra • Mistletoe And Holly (Remastered 1999)](https://music.youtube.com/watch?v=3_mL5nfovYI)
-- [Frank Sinatra • The Christmas Waltz (Remastered 1999)](https://music.youtube.com/watch?v=OfmcEok4mkE)
-- [Frank Sinatra • The Little Drummer Boy](https://music.youtube.com/watch?v=UyHJndrurjM)
-- [Gene Autry • Everyone's a Child at Christmas (Single Version)](https://music.youtube.com/watch?v=8oOldS6DLac)
-- [Gene Autry • Here Comes Santa Claus (Down Santa Claus Lane) (1947 Version)](https://music.youtube.com/watch?v=iPi9PSU589k)
-- [Gene Autry • Rudolph the Red-Nosed Reindeer](https://music.youtube.com/watch?v=-1xAi_Q6a8g)
-- [Harry Belafonte • Christmas Is Coming](https://music.youtube.com/watch?v=GBj_gi4UiBw)
-- [Harry Belafonte • Mary's Boy Child](https://music.youtube.com/watch?v=8N8aNhbnP-Y)
-- [Jimmie Rogers • Silent Night](https://music.youtube.com/watch?v=xyPOtDOqxas)
-- [Johnny Mathis • Blue Christmas](https://music.youtube.com/watch?v=C2cJrwWN0bI)
-- [Johnny Mathis • Sleigh Ride](https://music.youtube.com/watch?v=Lzw9B6r6CL4)
-- [Johnny Mathis • Winter Wonderland](https://music.youtube.com/watch?v=PwouhKWcOKY)
-- [Johnny Mercer\The Mellowares • Winter Wonderland](https://music.youtube.com/watch?v=_fQHUO1ECIY)
-- [John Williams • Carol of the Bells (From "Home Alone" Soundtrack)](https://music.youtube.com/watch?v=5zSfb5vmkPc)
-- [Leroy Anderson • Sleigh Ride](https://music.youtube.com/watch?v=lpZDvJE3Hp0)
-- [Les Baxter and His Orchestra • Santa Claus' Party](https://music.youtube.com/watch?v=xW0O9vKft58)
-- [Les Paul • Jingle Bells](https://music.youtube.com/watch?v=J5b__6eLtLc)
-- [Luther Vandross • At Christmas Time (Remastered 2023)](https://music.youtube.com/watch?v=ucB3nYjZSVY)
-- [Luther Vandross • Have Yourself a Merry Little Christmas](https://music.youtube.com/watch?v=nxMLf7n3RPA)
-- [Margaret Whiting • Baby, It's Cold Outside](https://music.youtube.com/watch?v=j8n-WpfsstA)
-- [Margaret Whiting • The Mistletoe Kiss Polka](https://music.youtube.com/watch?v=G-Q6lclc4gk)
-- [The Mills Brothers • You Don't Have to Be a Santa Claus](https://music.youtube.com/watch?v=qAv7wBjsQD8)
-- [Nat King Cole • Caroling, Caroling](https://music.youtube.com/watch?v=62EZdywj3CE)
-- [Nat King Cole • Take Me Back To Toyland (Remastered)](https://music.youtube.com/watch?v=4HNCaR9-ipY)
-- [Nat King Cole • The Happiest Christmas Tree](https://music.youtube.com/watch?v=mcNvZEqszoo)
-- [Pat Boone • Santa Claus Is Coming To Town](https://music.youtube.com/watch?v=4blIc9mRPFM)
-- [Pat Boone • Silver Bells](https://music.youtube.com/watch?v=-eoGPuVrjCg)
-- [Pat Boone • White Christmas](https://music.youtube.com/watch?v=XRWKg9kwP5o)
-- [Ray Conniff • Christmas Bride](https://music.youtube.com/watch?v=MyXSTnj8jXc)
-- [Release • C-H-R-I-S-T-M-A-S](https://music.youtube.com/watch?v=A2M_T5z5tYo)
-- [Release • The Christmas Tree](https://music.youtube.com/watch?v=4ePG9SqCbwo)
-- [Stevie Wonder • Someday At Christmas](https://music.youtube.com/watch?v=ujvLa6l4BhE)
-- [Thurl Ravenscroft • You're A Mean One, Mr. Grinch](https://music.youtube.com/watch?v=cGSneujgGT8)
-- [Trans-Siberian Orchestra • Christmas Canon](https://music.youtube.com/watch?v=Das4PWWLecg)
-- [Vienna Boys' Choir • The Little Drummerboy](https://music.youtube.com/watch?v=VDxaceN_h-E)
-- [Vince Gill • It Came Upon A Midnight Clear](https://music.youtube.com/watch?v=6KDCgPCkuG0)
-- [Vince Gill • Let There Be Peace On Earth](https://music.youtube.com/watch?v=5AH_BMw5axU)
-- [Winterhalter • Blue Christmas](https://music.youtube.com/watch?v=EOBCY855Vkk)
 
 ### Thanksgiving
 
