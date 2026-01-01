@@ -4,7 +4,7 @@ import path from 'path';
 import { glob } from 'glob';
 import { execSync } from 'child_process';
 
-const BUILD_DIR = 'public'; // Quartz usually outputs here
+const BUILD_DIR = '/mnt/sda1/Backups & Archives/Code Land/Web: HTML, CSS, JS, TS/MJ.com/quartz/public'; // Quartz usually outputs here
 const PASSWORD = process.env.PAGE_PASSWORD; // Set this in your environment
 
 if (!PASSWORD) {
