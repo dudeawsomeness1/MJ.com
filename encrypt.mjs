@@ -22,7 +22,7 @@ async function encryptPages() {
     const content = fs.readFileSync(file, 'utf8');
 
     // Check for "is-encrypted" meta flag
-    if (content.includes('<meta name="is-encrypted" content="true">')) {
+    if (content.includes('meta name="is-encrypted" content="true"')) {
       console.log(`   Encrypting: ${file}`);
 
       try {
