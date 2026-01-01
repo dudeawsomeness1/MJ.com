@@ -4,7 +4,7 @@ import path from 'path';
 import { glob } from 'glob';
 import { execSync } from 'child_process';
 
-const BUILD_DIR = 'public'; // Quartz usually outputs here `/mnt/sda1/Backups & Archives/Code Land/Web: HTML, CSS, JS, TS/MJ.com/quartz/public`
+const BUILD_DIR = 'public'; // Quartz usually outputs here
 const PASSWORD = process.env.PAGE_PASSWORD; // Set this in your environment
 
 if (!PASSWORD) {
@@ -31,7 +31,7 @@ async function encryptPages() {
         // Run staticrypt on the file
         // This command encrypts 'file' and outputs to 'encrypted/filename.html'
         // Add a salt so the output is deterministic if you want (optional)
-        console.log(`   ${staticryptPath} "${file}" -p "${PASSWORD}" --short`);
+        // console.log(`   ${staticryptPath} "${file}" -p "${PASSWORD}" --short`); // DEBUG
         execSync(`${staticryptPath} "${file}" -p "${PASSWORD}" --short`, { stdio: 'inherit' });
 
         // Replace original file with encrypted version
