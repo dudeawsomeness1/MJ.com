@@ -2,11 +2,11 @@
 encrypted: true
 index: false
 ---
-FBI, Special Agent
-*Nationality*: USA (French Ancestry)
-Male
-*Age*: 31
-*DOB*: March 14, *1984*
+- FBI, Special Agent
+- *Nationality*: USA (French Ancestry)
+- Male
+- *Age*: 31
+- *DOB*: March 14, *1984*
 
 ## Stats
 
@@ -55,7 +55,7 @@ Although Lyle is a loner, he is motivated by physically protecting people. He ow
 - Cramped offices
 - Hallmark
 - Malls & shopping centers
-- *Taking flights*
+- *[[Lyle Reese#Before 2015|Taking flights]]*
 
 ## History
 
