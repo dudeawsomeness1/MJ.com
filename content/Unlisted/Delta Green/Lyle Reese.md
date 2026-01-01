@@ -1,3 +1,7 @@
+---
+encrypted: true
+index: false
+---
 FBI, Special Agent
 *Nationality*: USA (French Ancestry)
 Male
@@ -11,7 +15,7 @@ Male
 | 11  | 10  | 14  | 15  | 10  | 12  |
 
 ### Distinguishing features
-DEX: Lean/agile, Bruce Lee build
+DEX: Lean & Agile, Bruce Lee build
 INT: Creative ingenuity
 
 |             | HP  | WP  | SAN | BP  |

@@ -1,3 +1,7 @@
+---
+encrypted: true
+index: false
+---
 Retired Sailor
 *Nationality*: USA
 Male
