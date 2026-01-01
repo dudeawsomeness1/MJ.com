@@ -14,10 +14,10 @@ Male
 DEX: Lean/agile, Bruce Lee build
 INT: Creative ingenuity
 
-| HP  | WP  | SAN | BP  |
-| --- | --- | --- | --- |
-| 11  | 10  | 50  | 40  |
-| 11  | 10  | 50  | 40  |
+|             | HP  | WP  | SAN | BP  |
+| ----------- | --- | --- | --- | --- |
+| **Max**     | 11  | 10  | 50  | 40  |
+| **Current** | 11  | 10  | 50  | 40  |
 
 ## Physical Description
 Lean, stubble chin, likes to wear beanies, consistently calm demeanor, T-shirts, never wears denim.
@@ -55,6 +55,10 @@ Although Lyle is a loner, he is motivated by physically protecting people. He ow
 
 ## History
 
+### Labor Day, 2016?
+
+*Coming soon lol...*
+
 ### Interim 1
 Having returned from his first Delta Green field mission, finally coming face to face with the unnatural (more so than the plane crash), Lyle is in a focused mood. It is strange to have seen the truly strange, but Lyle knows there is more to come and the road ahead may be difficult. In the back of Lyle's mind, he wishes to spend some quality time with Harper and Garrick, as it is very valuable to him. However, Lyle's immediate focus is all on the unnatural events of his own experience, and potentially Garrick's.
 
@@ -63,6 +67,8 @@ Lyle has a warm welcome and a brief respite, which quickly turns into a late nig
 The next day, Lyle is eager to see what is on those FBI evidence tapes from the cabin. He wants a good idea of what information they contain before he hands them over to his superiors in the FBI. Lyle spends a good chunk of his free time each day researching and investigating anything related to the tapes and the things he's experienced.
 
 After some time, when Lyle has satisfied enough of his curiosity and leads, he puts his occult investigations on hold to spend time with Garrick and Harper. It's a breath of fresh air for Lyle to get out on the water, fishing with Garrick, water-skiing with Harper, hanging out around campfires, and other such activities. Lyle is also sure to practice his shooting, of course, he's gotta stay sharper than ever.
+
+*(Lyle focuses mostly on investigating the tapes, then he works on maintaining his bonds.)*
 
 ### First Delta Green Field Mission (October, 2015)
 Lyle's first flight since the crash feels very long, as he stomachs a cold sweat, constantly vigilant for anything weird. He does his best to stay calm and collected, with some success, reciting stoic/Vulcan-like mantras to himself.
