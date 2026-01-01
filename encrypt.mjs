@@ -38,7 +38,7 @@ async function encryptPages() {
 
         // This command encrypts 'file' and outputs to 'tempFile'
         // Add a salt so the output is deterministic if you want (optional)
-        execSync(`staticrypt "${file}" -p "${PASSWORD}" -o "${tempFile}" --short`, { stdio: 'inherit' });
+        execSync(`${staticryptPath} "${file}" -p "${PASSWORD}" -o "${tempFile}" --short`, { stdio: 'inherit' });
 
         // Replace original file with encrypted version
         fs.renameSync(tempFile, file);
