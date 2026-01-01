@@ -4,7 +4,7 @@ import path from 'path';
 import { glob } from 'glob';
 import { execSync } from 'child_process';
 
-const BUILD_DIR = '/mnt/sda1/Backups & Archives/Code Land/Web: HTML, CSS, JS, TS/MJ.com/quartz/public'; // Quartz usually outputs here
+const BUILD_DIR = 'public'; // Quartz usually outputs here `/mnt/sda1/Backups & Archives/Code Land/Web: HTML, CSS, JS, TS/MJ.com/quartz/public`
 const PASSWORD = process.env.PAGE_PASSWORD; // Set this in your environment
 
 if (!PASSWORD) {
@@ -29,20 +29,13 @@ async function encryptPages() {
 
       try {
         // Run staticrypt on the file
-        // -d removes the .html extension from the directory output if needed,
-        // but here we just overwrite the file in place using standard pipes or temp files.
-        // Staticrypt doesn't support in-place overwrite easily via CLI without a temp dir,
-        // so output to a temp file and move it back.
-
-        const tempFile = file + '.temp';
-
-        // This command encrypts 'file' and outputs to 'tempFile'
+        // This command encrypts 'file' and outputs to 'encrypted/filename.html'
         // Add a salt so the output is deterministic if you want (optional)
-        console.log(`   ${staticryptPath} "${file}" -p "${PASSWORD}" -o "${tempFile}" --short`);
-        execSync(`${staticryptPath} "${file}" -p "${PASSWORD}" -o "${tempFile}" --short`, { stdio: 'inherit' });
+        console.log(`   ${staticryptPath} "${file}" -p "${PASSWORD}" --short`);
+        execSync(`${staticryptPath} "${file}" -p "${PASSWORD}" --short`, { stdio: 'inherit' });
 
         // Replace original file with encrypted version
-        fs.renameSync(tempFile, file);
+        fs.renameSync(`encrypted/${path.basename(file)}`, file);
 
       } catch (error) {
         console.error(`   ❌ Failed to encrypt ${file}:`, error);
