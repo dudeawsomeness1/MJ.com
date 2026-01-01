@@ -36,7 +36,7 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
-    if (fileData.frontmatter?.encrypted) {
+    if (fileData.frontmatter?.encrypted) { // DEBUG
       console.log(`🔒 Found encrypted page: ${socialUrl}`)
     }
 
