@@ -6,11 +6,17 @@
       <description>Last 10 notes on The MJ-Web</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>January 1, 2026</title>
+    <link>https://www.newtonmafia.top/Blog/January-1,-2026</link>
+    <guid>https://www.newtonmafia.top/Blog/January-1,-2026</guid>
+    <description><![CDATA[ Today’s Song: State Your Name • Starjunk 95 My Ceph server is finally fully operational; the hive mind to my Mothership. ]]></description>
+    <pubDate>Fri, 02 Jan 2026 00:04:38 GMT</pubDate>
+  </item><item>
     <title>Newton Mafia</title>
     <link>https://www.newtonmafia.top/Newton-Mafia</link>
     <guid>https://www.newtonmafia.top/Newton-Mafia</guid>
     <description><![CDATA[ The Newton Mafia is an elite group of hooligans who operate on the principles of hope, charity, and love. ]]></description>
-    <pubDate>Thu, 01 Jan 2026 03:40:18 GMT</pubDate>
+    <pubDate>Thu, 01 Jan 2026 19:57:23 GMT</pubDate>
   </item><item>
     <title>Coming Soon…</title>
     <link>https://www.newtonmafia.top/Programming/Coming-Soon%E2%80%A6</link>
@@ -59,12 +65,6 @@
     <guid>https://www.newtonmafia.top/Mathematics/Dice-Rolling</guid>
     <description><![CDATA[ View Raw PDF I made this because I wanted to figure out how to calculate dice rolling probabilities and figure out how to simulate dice that I don’t have. ]]></description>
     <pubDate>Wed, 17 Dec 2025 06:41:34 GMT</pubDate>
-  </item><item>
-    <title>Linux Digital Document Viewers</title>
-    <link>https://www.newtonmafia.top/Blog/December-10,-2025</link>
-    <guid>https://www.newtonmafia.top/Blog/December-10,-2025</guid>
-    <description><![CDATA[ Today’s Song: Family Affair • Mary J. ]]></description>
-    <pubDate>Wed, 10 Dec 2025 10:25:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
